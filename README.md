@@ -5,7 +5,8 @@ when they are visible on the browser by adding one simple line to your `HTML Tag
 
 # Installation
 
-Just add those two files to your projects
+1- Run `npm install flexi-animate` or download the zip file<br>
+2- After that add those two files to your projects
 ```javascript
 <link rel="stylesheet" type="text/css" href="path/to/animate.css"/>
 <script src="path/to/animate.js" type="text/javascript"></script>
