@@ -1,0 +1,25 @@
+{
+  "name": "flexi-animate",
+  "version": "1.0.0",
+  "description": "Animate HTML content based on the famous Animate.css",
+  "main": "animate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SlimenTN/FlexiAnimate.git"
+  },
+  "keywords": [
+    "animate",
+    "css",
+    "html",
+    "animation"
+  ],
+  "author": "Arnaout Slimen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SlimenTN/FlexiAnimate/issues"
+  },
+  "homepage": "https://github.com/SlimenTN/FlexiAnimate#readme"
+}
